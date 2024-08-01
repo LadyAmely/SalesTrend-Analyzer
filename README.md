@@ -1,24 +1,7 @@
-# sales-trend-analyzer
+# SalesTrend Analyzer
 
-## Project setup
+## Project Description
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Web application that allows for real-time monitoring and analysis of sales performance. The application featues dynamic line and bar charts that visualize sales trends and compare performance across different periods. Users can generate detailed monthly sales reports, enabling ongoing tracking of performance and identification of seasonal patterns. 
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
